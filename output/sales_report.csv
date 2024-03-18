@@ -1,0 +1,301 @@
+category,region,month,total_sales,margin
+Clothing,Central,April    ,44670.049999999996,29940.61
+Clothing,Central,August   ,63083.94000000001,44319.22
+Clothing,Central,December ,52738.95,30564.35000000001
+Clothing,Central,February ,67269.59000000001,46727.32000000001
+Clothing,Central,January  ,69783.91,34422.35999999999
+Clothing,Central,July     ,42696.520000000004,28573.319999999996
+Clothing,Central,June     ,61484.979999999996,32123.96
+Clothing,Central,March    ,67031.21000000002,50095.46000000001
+Clothing,Central,May      ,31211.520000000008,14144.990000000002
+Clothing,Central,November ,56930.59,35357.37
+Clothing,Central,October  ,44512.89000000001,31625.69
+Clothing,Central,September,42315.2,33804.11
+Clothing,East,April    ,80992.33,41653.54
+Clothing,East,August   ,89437.45999999998,58326.08
+Clothing,East,December ,90244.23000000001,53272.23
+Clothing,East,February ,96875.68000000001,58261.91
+Clothing,East,January  ,84230.05000000002,52299.14
+Clothing,East,July     ,91008.15999999999,54272.13000000001
+Clothing,East,June     ,62433.93,42574.5
+Clothing,East,March    ,83267.36000000002,52000.18000000001
+Clothing,East,May      ,90461.48999999999,62367.659999999996
+Clothing,East,November ,91081.89000000001,53062.990000000005
+Clothing,East,October  ,86199.78000000001,49405.719999999994
+Clothing,East,September,92173.89,59801.68
+Clothing,North,April    ,71968.66999999998,37544.299999999996
+Clothing,North,August   ,75914.98000000001,38691.01999999999
+Clothing,North,December ,60910.369999999995,28996.9
+Clothing,North,February ,53441.969999999994,20261.239999999998
+Clothing,North,January  ,111735.07,70331.56
+Clothing,North,July     ,72912.03,43479.78
+Clothing,North,June     ,54946.329999999994,34210.47
+Clothing,North,March    ,75165.97,51157.49
+Clothing,North,May      ,42167.29000000001,26822.59
+Clothing,North,November ,85433.99,38934.909999999996
+Clothing,North,October  ,107038.73000000001,70116.92
+Clothing,North,September,78150.57999999999,42853.14
+Clothing,South,April    ,40163.189999999995,23459.43
+Clothing,South,August   ,50198.07,28532.070000000003
+Clothing,South,December ,103370.02999999998,70418.76
+Clothing,South,February ,58665.95000000001,42834.390000000014
+Clothing,South,January  ,74900.19000000002,51140.420000000006
+Clothing,South,July     ,53981.27,32940.15
+Clothing,South,June     ,76662.57,49515.42999999999
+Clothing,South,March    ,79170.21,52277.83
+Clothing,South,May      ,76690.94,39748.240000000005
+Clothing,South,November ,37352.74,23759.21
+Clothing,South,October  ,59175.69,32781.17
+Clothing,South,September,90101.17000000001,66475.6
+Clothing,West,April    ,74410.95000000003,47143.02999999999
+Clothing,West,August   ,57506.63000000002,38273.33
+Clothing,West,December ,73804.41000000002,41560.4
+Clothing,West,February ,94282.20999999998,43135.00999999999
+Clothing,West,January  ,86174.36000000002,59570.14000000001
+Clothing,West,July     ,108167.19999999997,68935.59
+Clothing,West,June     ,85918.95999999998,55141.270000000004
+Clothing,West,March    ,90088.94,60083.67999999999
+Clothing,West,May      ,88688.65,50012.95
+Clothing,West,November ,59724.189999999995,41422.41000000001
+Clothing,West,October  ,64663.060000000005,29684.710000000003
+Clothing,West,September,51283.79999999999,35496.340000000004
+Electronics,Central,April    ,116617.36000000002,50001.48
+Electronics,Central,August   ,50833.669999999984,16406.320000000003
+Electronics,Central,December ,105039.34000000003,37595.33000000001
+Electronics,Central,February ,85182.43999999999,26268.38
+Electronics,Central,January  ,55739.03,24228.379999999997
+Electronics,Central,July     ,70485.81999999999,25984.120000000003
+Electronics,Central,June     ,88624.28999999996,30027.64
+Electronics,Central,March    ,63342.26,20460.259999999995
+Electronics,Central,May      ,84581.28999999998,49009.13
+Electronics,Central,November ,98534.19,40337.84999999999
+Electronics,Central,October  ,88187.61999999998,27183.670000000002
+Electronics,Central,September,54530.04000000001,16119.429999999998
+Electronics,East,April    ,108504.81000000001,32574.550000000003
+Electronics,East,August   ,98329.90000000004,29107.039999999997
+Electronics,East,December ,100072.35,34565.67
+Electronics,East,February ,80481.64,27900.88
+Electronics,East,January  ,104955.00000000001,27145.389999999992
+Electronics,East,July     ,87179.16,37133.17999999999
+Electronics,East,June     ,93199.29000000001,39262.68000000001
+Electronics,East,March    ,77929.39000000001,18624.139999999996
+Electronics,East,May      ,101419.27000000002,24623.659999999996
+Electronics,East,November ,124202.86000000002,36807.87
+Electronics,East,October  ,114321.08000000002,51555.389999999985
+Electronics,East,September,104192.18000000001,43073.350000000006
+Electronics,North,April    ,108730.06999999999,38776.59000000001
+Electronics,North,August   ,105514.05999999998,23055.36
+Electronics,North,December ,77531.17,1303.8499999999976
+Electronics,North,February ,81932.59999999999,10213.929999999993
+Electronics,North,January  ,144298.32,63670.89
+Electronics,North,July     ,126875.25,36895.659999999996
+Electronics,North,June     ,72062.40000000001,8613.759999999997
+Electronics,North,March    ,91542.42999999998,27557.690000000006
+Electronics,North,May      ,112029.92,31155.970000000012
+Electronics,North,November ,146683.75,50172.7
+Electronics,North,October  ,118515.86000000003,41401.430000000015
+Electronics,North,September,99169.89999999997,32529.989999999998
+Electronics,South,April    ,66098.48000000001,18760.68
+Electronics,South,August   ,97074.77,22184.36
+Electronics,South,December ,66824.76000000001,15601.359999999997
+Electronics,South,February ,54381.41999999999,15296.249999999998
+Electronics,South,January  ,79678.42000000004,17503.709999999995
+Electronics,South,July     ,78915.73999999999,18710.77
+Electronics,South,June     ,100302.85,35169.50000000001
+Electronics,South,March    ,85220.64,28738.649999999994
+Electronics,South,May      ,83760.30000000003,26267.19
+Electronics,South,November ,74032.68,29847.329999999994
+Electronics,South,October  ,69168.8,19695.32
+Electronics,South,September,79529.86,30203.820000000007
+Electronics,West,April    ,83020.99,30453.050000000003
+Electronics,West,August   ,103491.35999999999,26753.560000000005
+Electronics,West,December ,97803.49999999999,29083.53
+Electronics,West,February ,106228.37999999998,39366.219999999994
+Electronics,West,January  ,133615.42,33213.75000000001
+Electronics,West,July     ,115172.08000000002,40051.529999999984
+Electronics,West,June     ,97890.70999999999,30888.47000000001
+Electronics,West,March    ,114303.50000000001,41281.35999999999
+Electronics,West,May      ,101705.24999999999,28025.81
+Electronics,West,November ,126182.78,45413.07
+Electronics,West,October  ,76198.66999999998,23058.709999999995
+Electronics,West,September,80452.06000000003,21180.18
+Home & Kitchen,Central,April    ,65686.49999999999,31368.509999999995
+Home & Kitchen,Central,August   ,93549.98999999999,45118.66
+Home & Kitchen,Central,December ,96073.07999999999,54605.25000000001
+Home & Kitchen,Central,February ,63436.119999999995,24889.489999999994
+Home & Kitchen,Central,January  ,101033.34000000001,37149.869999999995
+Home & Kitchen,Central,July     ,102578.56,50483.5
+Home & Kitchen,Central,June     ,51309.64999999999,16316.31
+Home & Kitchen,Central,March    ,53703.920000000006,23778.469999999998
+Home & Kitchen,Central,May      ,45140.48999999999,9467.870000000003
+Home & Kitchen,Central,November ,73432.06,30045.040000000005
+Home & Kitchen,Central,October  ,127325.18,69374.37999999999
+Home & Kitchen,Central,September,66726.67,29710.91999999999
+Home & Kitchen,East,April    ,107763.74,37160.36000000001
+Home & Kitchen,East,August   ,73838.68,34224.42
+Home & Kitchen,East,December ,73499.61,29309.25
+Home & Kitchen,East,February ,74398.77,17416.989999999994
+Home & Kitchen,East,January  ,85258.01999999999,42358.67
+Home & Kitchen,East,July     ,102493.79,64652.29
+Home & Kitchen,East,June     ,83533.91,27229.680000000004
+Home & Kitchen,East,March    ,101257.23,47614.91999999999
+Home & Kitchen,East,May      ,94042.39000000001,53095.149999999994
+Home & Kitchen,East,November ,95955.33,42741.549999999996
+Home & Kitchen,East,October  ,79867.30999999997,26761.01
+Home & Kitchen,East,September,91327.77,46166.78999999999
+Home & Kitchen,North,April    ,87649.23,45507.92
+Home & Kitchen,North,August   ,69849.77999999998,30754.949999999993
+Home & Kitchen,North,December ,68826.29,23965.54
+Home & Kitchen,North,February ,75009.93000000001,35354.92
+Home & Kitchen,North,January  ,96800.93999999999,47676.07
+Home & Kitchen,North,July     ,111045.23999999999,48548.15
+Home & Kitchen,North,June     ,96006.93000000001,57393.83
+Home & Kitchen,North,March    ,102977.56999999999,54022.659999999996
+Home & Kitchen,North,May      ,104446.71,47617.76999999999
+Home & Kitchen,North,November ,68873.75000000001,27152.379999999994
+Home & Kitchen,North,October  ,73402.01999999997,32537.500000000004
+Home & Kitchen,North,September,89118.41000000002,47382.649999999994
+Home & Kitchen,South,April    ,51645.48,24349.7
+Home & Kitchen,South,August   ,47112.969999999994,15332.08
+Home & Kitchen,South,December ,72155.17,30343.929999999997
+Home & Kitchen,South,February ,55653.469999999994,22533.46
+Home & Kitchen,South,January  ,105562.09,45165.82999999999
+Home & Kitchen,South,July     ,59785.87999999999,17294.37
+Home & Kitchen,South,June     ,43114.11,10982.869999999999
+Home & Kitchen,South,March    ,83219.05000000002,34886.18
+Home & Kitchen,South,May      ,55413.75000000001,30786.83999999999
+Home & Kitchen,South,November ,62010.79,27953.22
+Home & Kitchen,South,October  ,34704.26,9977.049999999997
+Home & Kitchen,South,September,22518.120000000003,7095.889999999999
+Home & Kitchen,West,April    ,66067.28,27706.600000000002
+Home & Kitchen,West,August   ,105344.12,37288.14
+Home & Kitchen,West,December ,98428.93000000001,31894.239999999994
+Home & Kitchen,West,February ,93490.59000000003,49672.939999999995
+Home & Kitchen,West,January  ,84271.44,33697.92
+Home & Kitchen,West,July     ,85601.03,49458.84999999999
+Home & Kitchen,West,June     ,116912.05000000002,45842.86
+Home & Kitchen,West,March    ,89681.41,35357.19
+Home & Kitchen,West,May      ,152154.01,70060.59
+Home & Kitchen,West,November ,91791.13,43626.32
+Home & Kitchen,West,October  ,85145.20000000001,40164.67
+Home & Kitchen,West,September,107709.98999999998,57953.07
+Sports & Outdoors,Central,April    ,66106.59,35792.31
+Sports & Outdoors,Central,August   ,140949.62999999998,88705.42000000001
+Sports & Outdoors,Central,December ,131394.25,80755.58
+Sports & Outdoors,Central,February ,123053.79999999999,75294.54000000002
+Sports & Outdoors,Central,January  ,122289.67,70034.22000000002
+Sports & Outdoors,Central,July     ,99938.42,57439.609999999986
+Sports & Outdoors,Central,June     ,153258.44000000003,84374.18000000001
+Sports & Outdoors,Central,March    ,156409.2900000001,89617.37
+Sports & Outdoors,Central,May      ,145773.28,87222.70999999998
+Sports & Outdoors,Central,November ,133516.56999999998,69736.92000000001
+Sports & Outdoors,Central,October  ,110506.51000000001,62322.880000000005
+Sports & Outdoors,Central,September,146460.86,90181.88
+Sports & Outdoors,East,April    ,157669.94000000003,96441.57000000002
+Sports & Outdoors,East,August   ,196358.18999999994,123755.63000000003
+Sports & Outdoors,East,December ,132299.59000000003,75791.32999999999
+Sports & Outdoors,East,February ,143104.06999999998,79030.11000000002
+Sports & Outdoors,East,January  ,132343.18999999997,62099.219999999994
+Sports & Outdoors,East,July     ,122517.85999999999,56725.81
+Sports & Outdoors,East,June     ,145977.46,85047.23999999999
+Sports & Outdoors,East,March    ,142685.97999999998,78226.48999999998
+Sports & Outdoors,East,May      ,186350.28000000003,113860.97
+Sports & Outdoors,East,November ,162790.19000000003,83060.35999999996
+Sports & Outdoors,East,October  ,178843.84000000003,104176.98000000007
+Sports & Outdoors,East,September,123940.58000000002,67515.15
+Sports & Outdoors,North,April    ,185329.01,120756.51000000004
+Sports & Outdoors,North,August   ,165064.11000000002,88690.12000000001
+Sports & Outdoors,North,December ,181870.07999999996,95958.84999999999
+Sports & Outdoors,North,February ,127890.96,67154.82999999999
+Sports & Outdoors,North,January  ,125049.66000000005,68263.23000000003
+Sports & Outdoors,North,July     ,146059.76,73310.15999999999
+Sports & Outdoors,North,June     ,129250.55999999997,73536.45
+Sports & Outdoors,North,March    ,150139.99,85783.43000000004
+Sports & Outdoors,North,May      ,169358.3,104550.08
+Sports & Outdoors,North,November ,196582.47000000003,109878.05000000002
+Sports & Outdoors,North,October  ,121313.19,73027.60999999999
+Sports & Outdoors,North,September,132232.36000000002,72045.37
+Sports & Outdoors,South,April    ,89329.00000000001,42167.07000000001
+Sports & Outdoors,South,August   ,121409.01000000001,81892.45000000003
+Sports & Outdoors,South,December ,109182.22,64548.60999999999
+Sports & Outdoors,South,February ,95291.05000000002,57595.00999999999
+Sports & Outdoors,South,January  ,133684.1,70397.13
+Sports & Outdoors,South,July     ,64494.390000000014,31444.100000000006
+Sports & Outdoors,South,June     ,126641.17999999998,74549.29000000002
+Sports & Outdoors,South,March    ,105242.00000000003,64997.71
+Sports & Outdoors,South,May      ,101773.50999999997,77506.73000000001
+Sports & Outdoors,South,November ,99990.53000000001,67211.86999999998
+Sports & Outdoors,South,October  ,91371.60000000002,36216.969999999994
+Sports & Outdoors,South,September,129033.92000000001,71066.58000000002
+Sports & Outdoors,West,April    ,161241.97,90310.79999999996
+Sports & Outdoors,West,August   ,139768.2,83829.57
+Sports & Outdoors,West,December ,180120.56,100382.18000000002
+Sports & Outdoors,West,February ,160849.6,93721.96000000002
+Sports & Outdoors,West,January  ,177255.83,92569.64000000001
+Sports & Outdoors,West,July     ,157892.62999999998,87058.48
+Sports & Outdoors,West,June     ,150867.4,86235.55
+Sports & Outdoors,West,March    ,159044.43000000002,98686.12999999999
+Sports & Outdoors,West,May      ,171000.28,91197.82999999997
+Sports & Outdoors,West,November ,154139.33000000002,85473.61999999998
+Sports & Outdoors,West,October  ,125054.17000000006,62037.88999999999
+Sports & Outdoors,West,September,155736.74,73367.65999999999
+Toys & Games,Central,April    ,70489.05,34913.92
+Toys & Games,Central,August   ,40087.420000000006,13811.140000000003
+Toys & Games,Central,December ,94827.40000000004,36751.32
+Toys & Games,Central,February ,108061.40999999999,49229.7
+Toys & Games,Central,January  ,77852.96000000002,34237.98
+Toys & Games,Central,July     ,157405.48999999996,90503.51000000001
+Toys & Games,Central,June     ,61267.73999999999,25693.67
+Toys & Games,Central,March    ,83118.73999999999,48875.59999999999
+Toys & Games,Central,May      ,56207.640000000014,26882.600000000002
+Toys & Games,Central,November ,104095.79000000001,55071.320000000014
+Toys & Games,Central,October  ,62954.740000000005,25308.800000000003
+Toys & Games,Central,September,62886.530000000006,35473.54
+Toys & Games,East,April    ,106562.75000000001,39268.37
+Toys & Games,East,August   ,74346.4,31802.309999999994
+Toys & Games,East,December ,97242.70999999998,34382.729999999996
+Toys & Games,East,February ,75594.32999999999,40195.119999999995
+Toys & Games,East,January  ,91464.38,48459.11
+Toys & Games,East,July     ,81548.85,38457.25
+Toys & Games,East,June     ,68323.35,31443.839999999997
+Toys & Games,East,March    ,109561.56000000001,63042.62000000001
+Toys & Games,East,May      ,88107.72000000002,39010.579999999994
+Toys & Games,East,November ,73128.37000000001,26617.109999999997
+Toys & Games,East,October  ,118353.11999999998,64481.14999999999
+Toys & Games,East,September,68004.32,19093.11
+Toys & Games,North,April    ,71680.22,38552.39
+Toys & Games,North,August   ,122026.60999999999,56188.51
+Toys & Games,North,December ,104225.84999999998,59096.76999999998
+Toys & Games,North,February ,73167.22000000003,30383.209999999995
+Toys & Games,North,January  ,42818.71000000001,16298.339999999998
+Toys & Games,North,July     ,65732.01000000001,25308.1
+Toys & Games,North,June     ,71945.86000000002,35976.57
+Toys & Games,North,March    ,85588.47000000003,43789.06
+Toys & Games,North,May      ,86509.16000000002,36247.1
+Toys & Games,North,November ,85487.97,33762.670000000006
+Toys & Games,North,October  ,55154.31999999999,23558.800000000003
+Toys & Games,North,September,92186.03,53248.070000000014
+Toys & Games,South,April    ,54625.19,22617.38
+Toys & Games,South,August   ,38216.8,12910.41
+Toys & Games,South,December ,85623.0,47707.96999999999
+Toys & Games,South,February ,115266.49000000002,72172.48
+Toys & Games,South,January  ,74555.5,46725.240000000005
+Toys & Games,South,July     ,83155.09999999999,37823.659999999996
+Toys & Games,South,June     ,65930.34,19114.059999999998
+Toys & Games,South,March    ,70757.30999999998,29988.190000000002
+Toys & Games,South,May      ,89401.86,38994.03
+Toys & Games,South,November ,44244.299999999996,10211.44
+Toys & Games,South,October  ,44673.72,19942.610000000004
+Toys & Games,South,September,37826.700000000004,19883.000000000004
+Toys & Games,West,April    ,109413.69999999998,50741.93000000001
+Toys & Games,West,August   ,72828.04,27436.14
+Toys & Games,West,December ,130395.19000000003,78991.71
+Toys & Games,West,February ,91177.97,56999.85
+Toys & Games,West,January  ,55307.53999999999,20301.780000000002
+Toys & Games,West,July     ,99496.32999999999,38317.59999999999
+Toys & Games,West,June     ,72264.17,34309.79
+Toys & Games,West,March    ,94772.11,35706.78000000001
+Toys & Games,West,May      ,55575.189999999995,23438.150000000005
+Toys & Games,West,November ,67922.31000000003,34280.42999999999
+Toys & Games,West,October  ,38290.67999999999,9619.11
+Toys & Games,West,September,123408.64,59330.549999999996
