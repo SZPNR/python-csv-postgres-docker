@@ -23,35 +23,46 @@ Ce projet consiste en une application Python hebergée sur Docker qui récupère
 - **requirements.txt**
 - **requirements-test.txt**
 
+### Prérequis
+
+- Docker
+- docker-compose
+
 ### Instructions
 
 Assurez-vous que les fichiers CSV nécessaires pour la manipulation des données sont présents dans le dossier resources avant de lancer l'application. Les résultats des requêtes seront exportés dans le dossier output.
 
 1. **Cloner le projet :**
-
-2. **Accéder au répertoire du projet :**
-
-3. **Build avec docker-compose :**
+   ```
+   git clone https://github.com/SZPNR/python-csv-postgres-docker.git
+   ```
+   
+3. **Accéder au répertoire du projet :**
+   ```
+   cd python-csv-postgres-docker 
+   ```
+   
+4. **Build avec docker-compose :**
    ```
    docker-compose build
    ```
 
-4. **Lancement de toute l'application avec les tests :**
+5. **Lancement de toute l'application avec les tests :**
    ```
    docker-compose up
    ```
    
-5. **Lancement de l'application sans les tests :**
+6. **Lancement de l'application sans les tests :**
    ```
    docker-compose up app
    ```
    
-6. **Lancement des tests :**
+7. **Lancement des tests :**
    ```
    docker-compose up tests
    ```
    
-7. **Accéder aux fichiers CSV résultants :**
+8. **Accéder aux fichiers CSV résultants :**
    Les fichiers CSV résultants seront disponibles dans le répertoire `output`.
 
 
