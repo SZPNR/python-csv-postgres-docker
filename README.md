@@ -23,6 +23,26 @@ Ce projet consiste en une application Python hebergée sur Docker qui récupère
 - **requirements.txt**
 - **requirements-test.txt**
 
+### Contenu des Tables de Sortie
+
+#### Contenu de la Table Sales_Report :
+
+- **Category**
+- **Region**
+- **Month**
+- **Total_Sales** : Ventes totales pour la catégorie et la région au cours du mois.
+- **Margin** : Différence entre le prix de vente et le prix d'achat, agrégée par catégorie et région.
+
+#### Contenu de la Table Customer_Analysis :
+
+- **Customer_ID** : Identifiant unique du client.
+- **Region** : Région du client.
+- **Favorite_Category** : La catégorie de produit la plus achetée par le client.
+- **Total_Spent** : Le montant total dépensé par le client.
+- **Favorite_Product** : Le nom du produit le plus acheté par le client toutes catégories confondues.
+- **Purchase_Frequency** : Nombre moyen de jours entre les achats.
+
+
 ### Prérequis
 
 - Docker
